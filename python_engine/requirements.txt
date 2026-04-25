@@ -1,0 +1,5 @@
+pandas
+akshare
+pandas-ta==0.3.14b
+requests
+duckdb==0.10.0

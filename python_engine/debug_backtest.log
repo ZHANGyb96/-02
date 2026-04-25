@@ -1,0 +1,51 @@
+
+===== NEW RUN =====
+preset: None
+conditions: {"logic": "AND", "conditions": [{"left": "macd", "op": ">", "right": "macd_signal"}]}
+referenced_indicators: {'macd', 'macd_signal'}
+main_df shape: (1521, 44)
+
+===== NEW RUN =====
+preset: None
+conditions: {"logic": "AND", "conditions": [{"left": "macd", "op": ">", "right": "macd_signal"}]}
+referenced_indicators: {'macd', 'macd_signal'}
+main_df shape: (1521, 44)
+
+===== NEW RUN =====
+preset: None
+conditions: {"logic": "AND", "conditions": [{"left": "macd", "op": ">", "right": "macd_signal"}]}
+referenced_indicators: {'macd', 'macd_signal'}
+main_df shape: (5143, 44)
+macd series type: <class 'pandas.Series'>
+macd_signal series type: <class 'pandas.Series'>
+macd last 5: [None, None, None, None, None]
+macd_signal last 5: [None, None, None, None, None]
+mask type: <class 'pandas.Series'>
+mask True count: 0
+working_df columns: ['time', 'stock_code', 'period', 'open', 'high', 'low', 'close', 'volume', 'ma5', 'ma10', 'ma20', 'ma60', 'ma120', 'ma250', 'bbi', 'macd', 'macd_signal', 'macd_hist', 'kdj_k', 'kdj_d', 'kdj_j', 'rsi_6', 'rsi_12', 'rsi_24', 'trix', 'trma', 'dpo', 'madpo', 'cci', 'pdi', 'mdi', 'adx', 'adxr', 'boll_upper', 'boll_middle', 'boll_lower', 'bias_6', 'bias_12', 'bias_24', 'vol_ma5', 'vol_ma10', 'lon', 'lonma', 'stock_name']
+
+===== NEW RUN =====
+preset: None
+conditions: {"logic": "AND", "conditions": [{"left": "macd", "op": ">", "right": "macd_signal"}]}
+referenced_indicators: {'macd_signal', 'macd'}
+main_df shape: (1521, 44)
+macd series type: <class 'pandas.Series'>
+macd_signal series type: <class 'pandas.Series'>
+macd last 5: [None, None, None, None, None]
+macd_signal last 5: [None, None, None, None, None]
+mask type: <class 'pandas.Series'>
+mask True count: 0
+working_df columns: ['time', 'stock_code', 'period', 'open', 'high', 'low', 'close', 'volume', 'ma5', 'ma10', 'ma20', 'ma60', 'ma120', 'ma250', 'bbi', 'macd', 'macd_signal', 'macd_hist', 'kdj_k', 'kdj_d', 'kdj_j', 'rsi_6', 'rsi_12', 'rsi_24', 'trix', 'trma', 'dpo', 'madpo', 'cci', 'pdi', 'mdi', 'adx', 'adxr', 'boll_upper', 'boll_middle', 'boll_lower', 'bias_6', 'bias_12', 'bias_24', 'vol_ma5', 'vol_ma10', 'lon', 'lonma', 'stock_name']
+
+===== NEW RUN =====
+preset: None
+conditions: {"logic": "AND", "conditions": [{"left": "macd", "op": ">", "right": "macd_signal"}]}
+referenced_indicators: {'macd', 'macd_signal'}
+main_df shape: (1521, 44)
+macd series type: <class 'pandas.Series'>
+macd_signal series type: <class 'pandas.Series'>
+macd last 5: [None, None, None, None, None]
+macd_signal last 5: [None, None, None, None, None]
+mask type: <class 'pandas.Series'>
+mask True count: 0
+working_df columns: ['time', 'stock_code', 'period', 'open', 'high', 'low', 'close', 'volume', 'ma5', 'ma10', 'ma20', 'ma60', 'ma120', 'ma250', 'bbi', 'macd', 'macd_signal', 'macd_hist', 'kdj_k', 'kdj_d', 'kdj_j', 'rsi_6', 'rsi_12', 'rsi_24', 'trix', 'trma', 'dpo', 'madpo', 'cci', 'pdi', 'mdi', 'adx', 'adxr', 'boll_upper', 'boll_middle', 'boll_lower', 'bias_6', 'bias_12', 'bias_24', 'vol_ma5', 'vol_ma10', 'lon', 'lonma', 'stock_name']
